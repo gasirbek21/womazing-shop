@@ -1,9 +1,15 @@
-import "./app.scss"
+import Layout from "./Layout/Layout";
+import "./app.scss";
+import { Suspense } from "react";
+import "./i18n";
+
 function App() {
     return (
-        <div className="App">
-            <h1>Hello</h1>
-        </div>
+        <Suspense fallback={"Loading..."}>
+            <div className="App">
+                <Layout />
+            </div>
+        </Suspense>
     );
 }
 

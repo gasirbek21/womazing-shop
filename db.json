@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "email": "gasirbek.ernazaruli3112@gmail.com",
+      "password": "$2a$10$AIC7UypW5kUGz/M7Pvx8nekuCA.AXOiRrK.sb2DK6F04Z7/L03euO",
+      "tel": "dasdasd",
+      "login": "gasirbek_junior",
+      "orders": [],
+      "id": 1
+    },
+    {
+      "email": "gasirbek_ernazaruli3112@mail.ru",
+      "password": "$2a$10$oVsn5sAwy85L/EJDfD14cukLTTrhaHYi/ZPSJI6LrMVScENd35R4i",
+      "tel": "2121232131",
+      "login": "dasdas",
+      "orders": [],
+      "id": 2
+    },
+    {
+      "email": "dasdasda@as.ru",
+      "password": "$2a$10$nv.gB0saUPrKAhfIPA1EjuCd.Pyhmx2M4iHdY4D87wgWOeUPh21Re",
+      "tel": "dasdasd",
+      "login": "dasdasda",
+      "orders": [],
+      "id": 3
+    },
+    {
+      "email": "gasirbek.ernazaruli12@gmail.com",
+      "password": "$2a$10$JAKYoXCiS/I0YG86jNYn2ebFdWAQNd3fcThGM4BMRuShb.iYjgIhC",
+      "tel": "2121232131",
+      "login": "gasirbek21",
+      "orders": [],
+      "id": 4
+    },
+    {
+      "email": "gasir@gmail.com",
+      "password": "$2a$10$ebiw9OiQUcFHz7RDau6qDOhKSCEww3DwWMPmY/B0gUIBKZrON1C3y",
+      "tel": "2121232131",
+      "login": "gasirbek21",
+      "orders": [],
+      "id": 5
+    }
+  ],
+  "clothes": [
+    {
+      "id": 1,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Футболка USA",
+      "price": 200,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Футболка USA",
+      "price": 229,
+      "image": "",
+      "category": "t-shirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "color": [
+        "green",
+        "white",
+        "black"
+      ]
+    }
+  ]
+}

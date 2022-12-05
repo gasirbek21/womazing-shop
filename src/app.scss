@@ -1,5 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@400;600;700&family=Poppins:wght@500&display=swap");
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Cormorant Garamond", serif;
 }
+
+.container {
+    width: 100%;
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+@import "./Layout/Header/header.scss";
+@import "./pages/Home//home.scss";
+@import "./pages/Login/login.scss";
+@import "./pages/Register/register.scss";

@@ -1,0 +1,13 @@
+{
+    "header": {
+        "link1": "Home",
+        "link2": "Shop",
+        "link3": "Brands",
+        "link4": "Contacts"
+    },
+    "home": {
+        "text1": "New arrivals this season",
+        "text2": "Refined combinations and velvet shades - that's what you've been looking for this season. Time to explore.",
+        "text3": "Open shop"
+    }
+}
